@@ -1,6 +1,6 @@
 
 <p align="center">
-<img with="240" height="200" src="https://github.com/Cominfbr/Cominfbr.github.io/blob/master/images/logo_transparent.png" alt="Logo CominfBR">
+<img with="240" height="200" src="https://github.com/Cominfbr/Cominfbr.github.io/blob/master/images/Logo_teste.png" alt="Logo CominfBR">
 </p>
 <h1 align="center"> Site da CominfBR</h1>
 
