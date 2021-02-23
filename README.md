@@ -1,6 +1,8 @@
-# 🔗 LittleLink
 
-![LittleLink](https://cdn.cottle.cloud/littlelink/social-circle.png)
+<p align="center">
+<img with="240" height="200" src="https://github.com/Cominfbr/Cominfbr.github.io/blob/master/images/logo_transparent.png" alt="Logo CominfBR">
+</p>
+<h1 align="center"> Site da CominfBR</h1>
 
 LittleLink is a lightweight DIY alternative to services like [Linktree](https://linktr.ee)
 and [many.link](https://www.google.com). LittleLink was built using [Skeleton](http://getskeleton.com/), a dead simple, responsive boilerplate—we just stripped out some additional code you wouldn't need and added in branded styles for popular services. 😊
